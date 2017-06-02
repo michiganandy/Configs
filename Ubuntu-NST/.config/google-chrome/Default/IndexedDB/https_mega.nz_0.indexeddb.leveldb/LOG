@@ -1,0 +1,12 @@
+2017/06/01-16:46:57.411 24220 Reusing MANIFEST /home/jfedjaev/.config/google-chrome/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/MANIFEST-000001
+2017/06/01-16:46:57.610 24220 Current memtable full; waiting...
+2017/06/01-16:46:57.610 10891 Level-0 table #5: started
+2017/06/01-16:46:57.627 10891 Level-0 table #5: 3173 bytes OK
+2017/06/01-16:46:57.644 10891 Delete type=0 #3
+2017/06/01-16:46:57.644 10891 Level-0 table #7: started
+2017/06/01-16:46:57.644 10891 Level-0 table #7: 0 bytes OK
+2017/06/01-16:46:57.661 10891 Delete type=0 #4
+2017/06/01-16:46:57.662 10891 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2017/06/01-16:47:08.340 10891 Level-0 table #9: started
+2017/06/01-16:47:08.647 10891 Level-0 table #9: 8320530 bytes OK
+2017/06/01-16:47:08.666 10891 Delete type=0 #6

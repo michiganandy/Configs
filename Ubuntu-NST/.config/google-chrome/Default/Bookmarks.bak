@@ -1,0 +1,983 @@
+{
+   "checksum": "6779be2382ce9c9bf1c62a24678129fc",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13133354415355744",
+            "id": "68",
+            "meta_info": {
+               "last_visited_desktop": "13140608073870227"
+            },
+            "name": "GDrive",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://drive.google.com/drive/my-drive"
+         }, {
+            "date_added": "13125279254372513",
+            "id": "69",
+            "meta_info": {
+               "last_visited_desktop": "13140653956223703"
+            },
+            "name": "GPhotos",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://photos.google.com/"
+         }, {
+            "date_added": "13135280316522042",
+            "id": "70",
+            "meta_info": {
+               "last_visited_desktop": "13140381477603327"
+            },
+            "name": "soundcloud",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://soundcloud.com/stream"
+         }, {
+            "date_added": "13135775509049551",
+            "id": "71",
+            "meta_info": {
+               "last_visited_desktop": "13140715638783079"
+            },
+            "name": "GitHub",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13071698071218000",
+            "id": "72",
+            "meta_info": {
+               "last_visited_desktop": "13138502245628603",
+               "stars.flags": "4",
+               "stars.id": "ssc_6b61eac25417a5bb",
+               "stars.imageData": "Cg5nX3ZJR2tzS2I1OXZkTRJ8CnRodHRwOi8vcG9scGl4LnN1ZWRkZXV0c2NoZS5jb20vcG9sb3BvbHlfZnMvMS4yMjI4OTAwLjE0MTY0MTM2NjAhL2h0dHBJbWFnZS9pbWFnZS5qcGdfZ2VuL2Rlcml2YXRpdmVzLzMwMHgwL2ltYWdlLmpwZxDOARj0ARpjCltodHRwOi8vdDMuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1FDYTdXeHFlMl84OG5OZm1IcHN0R2lUUjZIU29BcGZIZHl6QmtwTFN2YzdFenk0cXRFEM4BGPQBIh8IARDOARj0ASDhQUIGEgSAAAAASgppbWFnZS9qcGVn",
+               "stars.pageData": "Ig45V0NmQm03U1BlWTVVTQ==",
+               "stars.type": "2"
+            },
+            "name": "SZ",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.sueddeutsche.de/"
+         }, {
+            "date_added": "12982086926662650",
+            "id": "73",
+            "meta_info": {
+               "last_visited": "13140172804806511",
+               "last_visited_desktop": "13140704799781252",
+               "stars.id": "ssc_b2d8c5b63ff1b841",
+               "stars.imageData": "Cg51WHpGMHlJblY4NEpSTRJjClxodHRwOi8vdmlkZW8uZ29sZW0uZGUvdGVhc2VyLzEvMS8xNDI3NS90aHVtYi1tZWRpdW0tMTk0L21lZGl1bS00ODAtY2Fub25lb3NjMTAwbWtpaS1zbmFwLmpwZxCbARhXGmIKW2h0dHA6Ly90MS5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjU2dNSGVlX2pIT0F0LWlwNy0yYjNwNkl2SFdoUTJwUkJzRFNpMVJYTTlTRDN5UHQ3aEYQmwEYVyIeCAEQmwEYVyCjCEIGEgQ3AXl9SgppbWFnZS9qcGVn",
+               "stars.pageData": "Ig5wOGF6WHk4d3MyQ0l5TQ==",
+               "stars.type": "2",
+               "stars.version": "sync.server.Clank45"
+            },
+            "name": "golem",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.golem.de/"
+         }, {
+            "date_added": "12982086934264984",
+            "id": "74",
+            "meta_info": {
+               "last_visited": "13137419973913989",
+               "last_visited_desktop": "13140647746842119",
+               "stars.id": "ssc_01db67bca78f9412",
+               "stars.imageData": "Cg5CblNRSHVsM1NnMDFFTRKGAQp+aHR0cDovL3d3dy5naXptb2RvLmRlL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE0LzA1L01pY3Jvc29mdC1wbGFudC1FY2h0emVpdC0lQzMlOUNiZXJzZXR6ZXItZiVDMyVCQ3ItU2t5cGUtWkROZXQuZGVfLTM0MHgyMjIucG5nEJACGLEBGmMKW2h0dHA6Ly90Mi5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjVHp0bmJtSm5vRGx4RXg5dnhOUk9ESFBfNkVaaVFvenY5RkRRbWZ2MTIxOHUwV1oxcmoQkAIYsQEiHwgBEJACGLEBINglQgYSBKYJe3tKCmltYWdlL2pwZWc=",
+               "stars.pageData": "Ig5jUnZNZjlfQ0t1eElTTQ==",
+               "stars.type": "2",
+               "stars.version": "sync.server.Clank45"
+            },
+            "name": "giz",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.gizmodo.de/"
+         }, {
+            "date_added": "13118348662758313",
+            "id": "75",
+            "meta_info": {
+               "last_visited_desktop": "13139787482701246"
+            },
+            "name": "VB",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://venturebeat.com/"
+         }, {
+            "date_added": "13068055049315000",
+            "id": "76",
+            "meta_info": {
+               "last_visited_desktop": "13140646414013668",
+               "stars.id": "ssc_da241d6fe9d4b63e",
+               "stars.imageData": "Cg5NZ0RiWlhXWFZDZkkxTRKAAQp4aHR0cDovL3d3dy5lLWZlbGxvd3MubmV0L2V4dGVuc2lvbi9zaWx2ZXIucHJvamVjdC9kZXNpZ24vc2lsdmVyLnByb2plY3RfcmVsYXVuY2gvaW1hZ2VzL2JyYW5kaW5nX2VmZWxsb3dzX19oZWFkZXJfMngucG5nEIgEGJABGmIKW2h0dHA6Ly90Mi5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUzY5d2doZGpWY0ZWSGpoYUNsWkdUaWZNbVZZMFJsenBRY3lCdnViYmJyRXNtX084SUYQoAMYcyIdCAEQoAMYcyDsOEIGEgSAJAAASglpbWFnZS9wbmc=",
+               "stars.pageData": "Ig55bUZ1VFNhNV9jUl9VTQ==",
+               "stars.type": "2",
+               "stars.version": "sync.server.Clank40"
+            },
+            "name": "ef",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.e-fellows.net/"
+         }, {
+            "date_added": "13038528465305000",
+            "id": "77",
+            "meta_info": {
+               "last_visited_desktop": "13140653785723346",
+               "stars.id": "ssc_289ed5c6574e8bfa",
+               "stars.imageData": "Cg5mVEtDckZYOWFUYkRWTRI7CjNodHRwczovL3d3dy5mYWNlYm9vay5jb20vaW1hZ2VzL2ZiX2ljb25fMzI1eDMyNS5wbmcQ4QEY4QEaYwpbaHR0cDovL3QxLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NTckNtUDFLZllMeGNtOF9DcTU4UWU1MGlzU3NFdFNNVl9HNERXWEpJa2xTTllJUjR0NBDhARjhASIQCAEQ4QEY4QFCBhIEgAIA/yj8toqXhefFAg==",
+               "stars.pageData": "Ig5RYW5PYzRlbHRpMi1VTQ==",
+               "stars.type": "2",
+               "stars.version": "sync.server.Chrome41"
+            },
+            "name": "fb",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.facebook.com/"
+         }, {
+            "date_added": "13106431592593763",
+            "id": "78",
+            "meta_info": {
+               "last_visited_desktop": "13140704801521387"
+            },
+            "name": "WA",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13068129708905000",
+            "id": "79",
+            "meta_info": {
+               "last_visited_desktop": "13132955036847884",
+               "stars.flags": "4",
+               "stars.id": "ssc_2305cab78b42bda8",
+               "stars.imageData": "Cg5iTGZQUFFQcldYcjVHTRI3Ci9odHRwOi8vY2RuNy5uZmx4aW1nLm5ldC9pbWFnZXMvNzcxNy85OTY3NzE3LmpwZxCmARjpARpjCltodHRwOi8vdDAuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1M5RHkyVldOeUx5cmdfa1lWYk1fSmlVQ1hwLWZvOENpdjhfaGtfWU1HZG5FbFVIQXRuEIQBGLoBIhAIARCEARi6AUIGEgQADXlaKJLC7M/+0swC",
+               "stars.pageData": "Ig5HVzZUVVF2eXZiODhjTQ==",
+               "stars.type": "2"
+            },
+            "name": "Netflix",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.netflix.com/WiHome"
+         }, {
+            "date_added": "13132100419207568",
+            "id": "80",
+            "meta_info": {
+               "last_visited": "13137850167502732",
+               "last_visited_desktop": "13136492496494378"
+            },
+            "name": "123movies",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://123movies.is/"
+         }, {
+            "children": [ {
+               "date_added": "13130380339345675",
+               "id": "98",
+               "meta_info": {
+                  "last_visited_desktop": "13139342967362473"
+               },
+               "name": "Cybrary",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.cybrary.it/"
+            }, {
+               "date_added": "13133351998513059",
+               "id": "99",
+               "meta_info": {
+                  "last_visited_desktop": "13133351998513185"
+               },
+               "name": "Udacity",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://classroom.udacity.com/me"
+            }, {
+               "date_added": "13133535607314798",
+               "id": "100",
+               "meta_info": {
+                  "last_visited_desktop": "13139356243934691"
+               },
+               "name": "Coursera",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.coursera.org/"
+            }, {
+               "date_added": "13139431753231936",
+               "id": "101",
+               "meta_info": {
+                  "last_visited_desktop": "13139584507177534"
+               },
+               "name": "Information Retrieval in High Dimensional Data: Assignment 1 - Overleaf",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.overleaf.com/9556818nwnbkzfptcyw#/34682775/"
+            } ],
+            "date_added": "13140706611995288",
+            "date_modified": "13140706611995288",
+            "id": "81",
+            "name": "Uni",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13134576545731137",
+               "id": "94",
+               "name": "Electroencephalography (EEG) Pt. 1 - BIOPAC Blog",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://blog.biopac.com/electroencephalography-eeg/"
+            }, {
+               "date_added": "13134576557649820",
+               "id": "95",
+               "meta_info": {
+                  "last_visited_desktop": "13134649317458208"
+               },
+               "name": "Ground vs. reference for EEG recording | BIOPAC",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.biopac.com/knowledge-base/ground-vs-reference-for-eeg-recording/"
+            }, {
+               "date_added": "13135269479855695",
+               "id": "96",
+               "meta_info": {
+                  "last_visited_desktop": "13135269479856221"
+               },
+               "name": "Mex-File Utility for Fast MATLAB Port I/O (64-bit)",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://apps.usd.edu/coglab/psyc770/IO64.html"
+            }, {
+               "date_added": "13135695715090900",
+               "id": "97",
+               "meta_info": {
+                  "last_visited_desktop": "13135770472204363"
+               },
+               "name": "BCI MOOC",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://sccn.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design"
+            } ],
+            "date_added": "13140706611995308",
+            "date_modified": "13140706611995308",
+            "id": "82",
+            "name": "NST",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13132289629023514",
+               "id": "91",
+               "meta_info": {
+                  "last_visited": "13132337447684462",
+                  "last_visited_desktop": "13139392273628320"
+               },
+               "name": "Optimizing Linux for Slow Computers | AkitaOnRails.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.akitaonrails.com/2017/01/17/optimizing-linux-for-slow-computers"
+            }, {
+               "date_added": "13130487177059349",
+               "id": "92",
+               "name": "Cybrary",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.cybrary.it/learningpath/entry-level-cyber-security-analyst?i=9554"
+            }, {
+               "date_added": "13134162779560619",
+               "id": "93",
+               "meta_info": {
+                  "last_visited_desktop": "13139780222590357"
+               },
+               "name": "OpenBCI crossing swords with motor imagery • Stuff",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://blog.jfrey.info/2015/03/03/openbci-motor-imagery/"
+            } ],
+            "date_added": "13140706611995327",
+            "date_modified": "13140706611995327",
+            "id": "83",
+            "name": "Dev",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13124645133780006",
+               "id": "88",
+               "name": "wallpaper",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://mega.nz/#F!scR3DBTQ!oZJiofaflaUcfhIarSHkXw"
+            }, {
+               "date_added": "13136127252052447",
+               "id": "89",
+               "meta_info": {
+                  "last_visited": "13136127252055035",
+                  "last_visited_desktop": "13136300745578726"
+               },
+               "name": "Bundesanzeiger",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.bundesanzeiger.de/ebanzwww/wexsservlet"
+            }, {
+               "date_added": "13135775690063971",
+               "id": "90",
+               "name": "FreeSync Monitor Tabelle - Google Sheets",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://docs.google.com/spreadsheets/d/1BjoUPz6P55OZKebeC1MvUtiJTUz8RXblR_vWFHPgWWs/edit"
+            } ],
+            "date_added": "13140706611995345",
+            "date_modified": "13140706611995345",
+            "id": "84",
+            "name": "Stuff",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13138793879148605",
+               "id": "86",
+               "meta_info": {
+                  "last_visited": "13139520821944172",
+                  "last_visited_desktop": "13139697102198039"
+               },
+               "name": "Neuralink and the Brain's Magical Future - Wait But Why",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://waitbutwhy.com/2017/04/neuralink.html"
+            }, {
+               "date_added": "13138809397075640",
+               "id": "87",
+               "meta_info": {
+                  "last_visited_desktop": "13138809397076048"
+               },
+               "name": "kottke.org - home of fine hypertext products",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://kottke.org/"
+            } ],
+            "date_added": "13140706611995365",
+            "date_modified": "13140706611995365",
+            "id": "85",
+            "name": "Interesting",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         } ],
+         "date_added": "13140706571403146",
+         "date_modified": "13140716364088107",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13056195247620039",
+               "id": "63",
+               "meta_info": {
+                  "stars.flags": "5",
+                  "stars.id": "ssc_7dd7eb02d5259861",
+                  "stars.type": "2"
+               },
+               "name": "Sabbatini, R.M.E.: A História da Estimulação Elétrica Cerebral",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.cerebromente.org.br/n18/history/stimulation_i.htm"
+            }, {
+               "date_added": "13056195345966038",
+               "id": "64",
+               "meta_info": {
+                  "stars.id": "ssc_798db40f1ee04739",
+                  "stars.imageData": "EkEKOWh0dHA6Ly9zMy5hbWF6b25hd3MuY29tL2hvYXhtdXNldW1pbWFnZXMvaGVhcnRhdGRlYXRoLmpwZxCMARiXAQ==",
+                  "stars.pageData": "EqIBT24gT2N0b2JlciAzMSwgMTkzOCwgSm9obiBEZWVyaW5nIHRvb2sgYSBsYXN0IGRyYWcgb24gaGlzIGNpZ2FyZXR0ZSwgc2F0IGRvd24gaW4gYSBjaGFpciwgYW5kIGFsbG93ZWQgYSBwcmlzb24gZ3VhcmQgdG8gcGxhY2UgYSBibGFjayBob29kIG92ZXIgaGlzIGhlYWQgYW5kIGltYWdlIg54emlpcnFZLU5sTDEtTQ==",
+                  "stars.type": "2",
+                  "stars.version": "sync.server.Chrome39"
+               },
+               "name": "The Top 20 Most Bizarre Experiments of All Time",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.madsciencemuseum.com/msm/gallery/top_20_most_bizarre_experiments"
+            }, {
+               "date_added": "13070384458571161",
+               "id": "65",
+               "meta_info": {
+                  "stars.id": "ssc_84abb4a3157ebef2",
+                  "stars.version": "sync.server.Chrome41"
+               },
+               "name": "Gibt/gab es Verschwörungstheorien, die sich als wahr erwiesen haben? - Fragen & Antworten - e-fellows.net community",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.community.e-fellows.net/qanda/thread/view/id/5186554"
+            }, {
+               "date_added": "13070588130348000",
+               "id": "66",
+               "meta_info": {
+                  "stars.id": "ssc_3f9f538ffd011bef",
+                  "stars.pageData": "EpYBS2F1bSBnZW51dHp0ZXMgaVBhZCBBaXIgV2ktRmkgMzIgR0IgU2lsdmVyIHp1IHZlcmthdWZlbi4gUmVjaG51bmcgdm9tIDE0LjEyLjEzIHdpciBiZWlnZWxlZ3QuLi4uLGlQYWQgQWlyIFdpLUZpIDMyIEdCIFNpbHZlciBpbiBNw7xuY2hlbiAtIE1heHZvcnN0YWR0Ig4tVjcwWWN5SmZiQzhCTQ==",
+                  "stars.type": "2",
+                  "stars.version": "sync.server.Clank46"
+               },
+               "name": "iPad Air Wi-Fi 32 GB Silver in München - Maxvorstadt | eBay Kleinanzeigen",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://kleinanzeigen.ebay.de/anzeigen/s-anzeige/ipad-air-wi-fi-32-gb-silver/293827755-285-6441?ref=search"
+            }, {
+               "date_added": "13070589500592000",
+               "id": "67",
+               "meta_info": {
+                  "stars.id": "ssc_5b64866947682e73",
+                  "stars.imageData": "Cg5GU3loSWc1ZnlFaHlHTRKIAQqAAWh0dHA6Ly93d3cuY29ubmV4aW9uLWVtcGxvaS5jb20vc3lzdGVtL2ltYWdlcy8xNTIzL29yaWdpbmFsL0V2b2x1dGlvbl9kdV9zZWN0ZXVyX2F1dG9tb2JpbGVfZW5fQWxsZW1hZ2VfZXRfRnJhbmNlLmpwZz8xMzkwNDkyODc2EKABGGoaYgpbaHR0cDovL3QxLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NTZTJISU9HRjd1Z2Q1M2thX0Z5eUtYbXlOZjBfeFlpQk5HTjZtTE45N1JhenAwM1NhShCgARhqIg8IARCgARhqQgYSBK91fH0okPCqr8iZzQI=",
+                  "stars.pageData": "Ig5wRlhraW5NOW9aYVNkTQ==",
+                  "stars.type": "2",
+                  "stars.version": "sync.server.Clank40"
+               },
+               "name": "Connexion-Emploi | L'évolution du secteur automobile en Allemage et en France : vers une mobilité accrue",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.connexion-emploi.com/fr/a/levolution-du-secteur-automobile-en-allemage-et-en-france-vers-une-mobilite-accrue"
+            } ],
+            "date_added": "13140706611991403",
+            "date_modified": "13140706611991403",
+            "id": "56",
+            "meta_info": {
+               "stars.id": "ssf_5186d39aab6f2e21"
+            },
+            "name": "Interessantes",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13036625707435464",
+            "id": "57",
+            "name": "Audio Technica ATH-M40fs Kopfhörer - Thomann Österreich",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.thomann.de/at/audio_technica_athm40fs.htm"
+         }, {
+            "date_added": "13036625723183501",
+            "id": "58",
+            "name": "Vic Firth SIH 1 Kopfhörer - Thomann Österreich",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.thomann.de/at/vic_firth_sih1_kopfhoerer.htm"
+         }, {
+            "date_added": "13037371872104593",
+            "id": "59",
+            "name": "www.international.tum.de/fileadmin/w00bhr/www/International_study_programs/Intern_Postgraduate_Pro.pdf",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.international.tum.de/fileadmin/w00bhr/www/International_study_programs/Intern_Postgraduate_Pro.pdf"
+         }, {
+            "date_added": "13038536751189670",
+            "id": "60",
+            "name": "Adobe CS6 - Crack",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.boerse.bz/boerse/freischaltung/1088936-adobe-cs6-creative-suite-6-und-einzelprogramme-auch-creative-suite-cc.html"
+         }, {
+            "children": [  ],
+            "date_added": "13140706611991953",
+            "date_modified": "13140706611991953",
+            "id": "61",
+            "name": "Werkstudent",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13140706611991973",
+            "date_modified": "13140706611991973",
+            "id": "62",
+            "name": "Philips SHB9100 Repair",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         } ],
+         "date_added": "13140706571403151",
+         "date_modified": "13038536751189670",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "5",
+      "synced": {
+         "children": [ {
+            "date_added": "13093952703935449",
+            "id": "6",
+            "meta_info": {
+               "last_visited": "13131117658382448"
+            },
+            "name": "Nicht verfügbar: https://campus.tum.de/tumonline/lv.detail?clvnr=950214350",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://campus.tum.de/tumonline/lv.detail?clvnr=950214350"
+         }, {
+            "date_added": "13079532773042444",
+            "id": "7",
+            "meta_info": {
+               "stars.flags": "5",
+               "stars.id": "ssc_93eaece32d1ce6d7",
+               "stars.version": "sync.server.Clank43"
+            },
+            "name": "Stipendien-Datenbank",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.vbio.de/der_vbio/landesverbaende/nordrhein_westfalen/stipendien_datenbank/"
+         }, {
+            "date_added": "13066877675510231",
+            "id": "8",
+            "meta_info": {
+               "stars.flags": "4",
+               "stars.id": "ssc_59320bd8caf5afe5",
+               "stars.imageData": "Cg5MODQwQWRob21kUmFjTRJKCkJodHRwOi8vcHJvcGVsbGVyLWZpbG0uZGUvd3AtY29udGVudC91cGxvYWRzLzIwMTMvMTEvVGl0bGVfUGFnZS5qcGcQ3AEY3AEaYwpbaHR0cDovL3QzLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NRX2JOR212RGVHeHJucDF5YXIwVHZTWVRwNi14WF91Y1pYU3B0N09JRU9uYk1DTHZCcBCTAhi3ASIQCAEQkwIYtwFCBhIEAAGKpijirOSAxa3MAg==",
+               "stars.pageData": "Ig43MERYdVNzRGtZcUNjTQ==",
+               "stars.type": "2"
+            },
+            "name": "Die Show des Scheiterns – PROPELLER-FILM",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://propeller-film.de/portfolio/die-show-des-scheiterns/"
+         }, {
+            "date_added": "13058318278322833",
+            "id": "9",
+            "meta_info": {
+               "stars.id": "ssc_d8db0126690e1b45",
+               "stars.imageData": "Cg44TlhTZGd2dDFnal9STRJXCk9odHRwczovL3d3dy56aWtpbmYuY29tL19nZngvYW5ub25jZXMvZHluL21lZC9pYmFuZXotcmc3MzIxLW1pY3JvLmpwZz8xMzk5NDg3NzM1EJMCGM4BGmMKW2h0dHA6Ly90MC5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUmJWSmdDMjR0RjVrbU1fcG1aR1A3a0h4aEZUVE1NOERNTlhYbUswNVhwMjJqYWk0OWMQ3AEYpAEiHwgBENwBGKQBIMglQgYSBAABfXtKCmltYWdlL2pwZWc=",
+               "stars.pageData": "EklJYmFuZXogUkc3MzIxIE1pY3JvIERpIE1hcnppbyBBZmZpY2hlciBsZXMgcGhvdG9zIFF1ZXN0aW9ucyAvIFLDqXBvbnNlcyA6Ig40cFRUanQzZ1RVMmh0TQ==",
+               "stars.type": "2",
+               "stars.version": "sync.server.Chrome39"
+            },
+            "name": "Ibanez RG7321 Micro Di Marzio",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.zikinf.com/annonces/dispannonce.php?annonce=1042194"
+         }, {
+            "date_added": "13057412947558134",
+            "id": "10",
+            "meta_info": {
+               "stars.id": "ssc_298354024b94e317",
+               "stars.imageData": "Cg5NWUhsNmdpZ1FzdWVBTRKQAQqHAWh0dHA6Ly9hbndhbHRhdXNrdW5mdC5kZS9maWxlYWRtaW4vUmVkYWt0aW9uL0JpbGRlci8yMDE0L1J1bmRmdW5rYmVpdHJhZy1XYXMtcGFzc2llcnQtd2Vubi1tYW4tbmljaHQtemFobHQtY29yYmlzLVBob3RvQWx0by1BcnRpa2VsLmpwZxCrAhioARpjCltodHRwOi8vdDEuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1RUZXdBRXNyeWZ3MHJzYnY4RWRpV0NVSEFoQWdsTGxvUjBieUo0djBtNVl4bnBxOTVDEKsCGKgBIh8IARCrAhioASDuJUIGEgQYAZJ8SgppbWFnZS9qcGVn",
+               "stars.pageData": "EsoBRnLDvGhlciBHRVosIGhldXRlIEJlaXRyYWdzc2VydmljZTogRGVyIFJ1bmRmdW5rYmVpdHJhZyBpc3QgYmVpIGRlbiBCw7xyZ2VybiBjaHJvbmlzY2ggdW5iZWxpZWJ0LiBXaXIgdmVycmF0ZW4sIHdhcyBOaWNodHphaGxlcm4gZHJvaHQg4oCTIHVuZCBvYiBzaWNoIGVpbmUgS2xhZ2UgZ2VnZW4gZGllIMOWZmZlbnRsaWNoLVJlY2h0bGljaGVuIGxvaG50LiIOOUxKVHNMRlFxcGU4eE0=",
+               "stars.type": "2",
+               "stars.version": "sync.server.Chrome40"
+            },
+            "name": "Kultur & Medien: Rundfunkbeitrag: Was passiert, wenn man nicht zahlt? - Deutsche Anwaltauskunft",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://anwaltauskunft.de/magazin/gesellschaft/kultur-medien/569/rundfunkbeitrag-was-passiert-wenn-man-nicht-zahlt/"
+         }, {
+            "children": [ {
+               "date_added": "13042199706204678",
+               "id": "53",
+               "name": "How To: SmartWatch (RetroWatch)",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.hardcopyworld.com/ngine/aduino/index.php/archives/670"
+            }, {
+               "date_added": "13042200339872098",
+               "id": "54",
+               "name": "LED",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://forum.arduino.cc/index.php?PHPSESSID=oidf3dtpo6lqplghar6lhsi6b4&topic=148853.0"
+            }, {
+               "date_added": "13042209997163000",
+               "id": "55",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_eddd2f62f9b5e3d6",
+                  "stars.imageData": "Cg5LVWJ4dUdnZjlQaEVHTRJFCj1odHRwOi8vd3d3LnRlY2hiaXRhci5jb20vdXBsb2Fkcy8yLzAvMy8xLzIwMzE2OTc3Lzk4NDg5OTEucG5nEK4BGKICGmMKW2h0dHA6Ly90MS5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjVDJMQ3Q5dHNLVjBpcmRxeThWeHh2YWVCb0daTHVyTEN4aDBUZEczVVlHakRldUU5N2MQrgEYogIiHwgBEK4BGKICIJhtQgYSBIAAAABKCmltYWdlL2pwZWc=",
+                  "stars.pageData": "Ig5iOVpKYm9jRldDUDVuTQ==",
+                  "stars.type": "2"
+               },
+               "name": "LED - on off",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.techbitar.com/ardudroid-simple-bluetooth-control-for-arduino-and-android.html"
+            } ],
+            "date_added": "13140706611988424",
+            "date_modified": "13140706611988425",
+            "id": "11",
+            "name": "Projet",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13048716627858761",
+               "id": "52",
+               "name": "Medizinische Diagnostik - Verfahren und Untersuchungsmethoden - BoerseBZ",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.boerse.bz/boerse/dokumente/fach-sachbuch/1797136-medizinische-diagnostik-verfahren-und-untersuchungsmethoden.html"
+            } ],
+            "date_added": "13140706611988444",
+            "date_modified": "13140706611988444",
+            "id": "12",
+            "name": "Medizinshit",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13140706611988463",
+            "date_modified": "13140706611988463",
+            "id": "13",
+            "meta_info": {
+               "stars.id": "ssf_81dd1b0b6cd26ee0"
+            },
+            "name": "Neuer Ordner",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13041378746094969",
+            "id": "14",
+            "name": "BibViz Project - Bible Contradictions, Misogyny, Violence, Inaccuracies interactively visualized",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://bibviz.com/"
+         }, {
+            "date_added": "13006977374608332",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13139672923661548"
+            },
+            "name": "/b/ - Random",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://boards.4chan.org/b/"
+         }, {
+            "date_added": "13006977374623713",
+            "id": "16",
+            "meta_info": {
+               "last_visited": "13136481345529742",
+               "last_visited_desktop": "13140605480985084"
+            },
+            "name": "- TUMonline - Technische Universität München",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://campus.tum.de/tumonline/webnav.ini"
+         }, {
+            "date_added": "13006977374626490",
+            "id": "17",
+            "meta_info": {
+               "last_visited": "13137492670194049",
+               "stars.id": "c096b61b50e50c588de7807624fc16f7",
+               "stars.imageData": "ErECCqgCaHR0cDovL20uZmF6Lm5ldC87bT1pcztmPXdlYnA7aD0zMTA7az1rQS14aDktM25ncXl1NWRhajlwNHRRO247cT02MDt3PTU1MC9tZWRpYTAvcHBtZWRpYS9ha3R1ZWxsLzExODkzMzEyMzMvMS4zMTQ5NTA0L2FydGljbGVfdGVhc2VyL29zY2FyLXBpc3Rvcml1cy1hdWYtZGVtLXdlZy1pbnMtZ2VyaWNodC5qcGdodHRwOi8vbWVkaWEwLmZhei5uZXQvcHBtZWRpYS9ha3R1ZWxsLzExODkzMzEyMzMvMS4zMTQ5NTA0L2FydGljbGVfZnVsbC9vc2Nhci1waXN0b3JpdXMtYXVmLWRlbS13ZWctaW5zLWdlcmljaHQuanBnLndlYnAQpgQYtgI="
+            },
+            "name": "FAZ.NET",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://m.faz.net/aktuell/"
+         }, {
+            "date_added": "13006977374629298",
+            "id": "18",
+            "name": "Bild",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://wap.bild.de/"
+         }, {
+            "date_added": "13006977374632197",
+            "id": "19",
+            "meta_info": {
+               "last_visited": "13137492666777866",
+               "last_visited_desktop": "13140710987468212"
+            },
+            "name": "Facebook",
+            "sync_transaction_version": "4",
+            "type": "url",
+            "url": "http://facebook.de/"
+         }, {
+            "date_added": "13006977374635005",
+            "id": "20",
+            "name": "heise online",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://heise-online.mobi/?from-classic=1"
+         }, {
+            "date_added": "13006977374637629",
+            "id": "21",
+            "meta_info": {
+               "last_visited": "13137419973913989",
+               "last_visited_desktop": "13140647746842119",
+               "stars.id": "ssc_32e681ea18e02a2a",
+               "stars.imageData": "Cg5FWmdWQXd2bzAtUGNrTRJXCk9odHRwOi8vd3d3Lmdpem1vZG8uZGUvd3AtY29udGVudC91cGxvYWRzLzIwMTQvMTEvaG9uZGFfb3RoZXJfc2lkZV8xLTM0MHgyMjIuanBnEJACGLEBGmMKW2h0dHA6Ly90MS5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUnlaVURQeWpDc0Q1ZFc1N3lOUi10SWExMklvQklzb1d2LV92Uy1LbC1vYkdqY1RqTnQQkAIYsQEiHwgBEJACGLEBILgTQgYSBAIBblNKCmltYWdlL2pwZWc=",
+               "stars.pageData": "Ig5jUnZNZjlfQ0t1eElTTQ==",
+               "stars.type": "2",
+               "stars.version": "sync.server.Clank45"
+            },
+            "name": "DAS GADGET WEBLOG - DIGITAL LIFESTYLE TODAY AND TOMORROW",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.gizmodo.de/"
+         }, {
+            "date_added": "13006977374640284",
+            "id": "22",
+            "meta_info": {
+               "last_visited": "13140172804806511",
+               "last_visited_desktop": "13140704799781252",
+               "stars.id": "5c0e798e8479ef4415bb179738f66ebc",
+               "stars.imageData": "Cg5lSG9qd0Zaci05YjJCTRI2Ci5odHRwOi8vd3d3LmdvbGVtLmRlLzE0MDkvMTA5MTgxLTg2MDM3LWlfcmMuanBnEKADGOoBGmMKW2h0dHA6Ly90MC5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUjFPRjNOV2NkLW1uVHRydFNiSVZ2QlM4T0FHMjU4UWFFd214ZzBjNk5lVlY0dF9fNWsQrAIYqAEiHwgBEKwCGKgBIKE1QgYSBB8BemVKCmltYWdlL2pwZWc=",
+               "stars.pageData": "Ig5wOGF6WHk4d3MyQ0l5TQ==",
+               "stars.type": "2",
+               "stars.version": "sync.server.Clank45"
+            },
+            "name": "Golem.de",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.golem.de/"
+         }, {
+            "date_added": "12978360627977000",
+            "id": "23",
+            "meta_info": {
+               "stars.id": "ssc_1fc4d200940f372f",
+               "stars.imageData": "Cg5VTm1JcUZyV1RZN1BLTRI8CjRodHRwOi8vaW1hZ2VzLWNkbi45Z2FnLmNvbS9waG90by9hajZQZHF3XzQ2MHNfdjEuanBnEMwDGJMIGmMKW2h0dHA6Ly90MC5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUk9tYWQyTDZZWG80ZWtGZVJ3UXVQLWpfUU9Vd2hGcUZDckM4TlVLSFVBNDMwOS0wdXoQlQEY0gIiEAgBEJUBGNICQgYSBIBBesQo8Y7Doc3czAI=",
+               "stars.pageData": "Ig41SDZ5TzVnVV94c3hTTQ==",
+               "stars.type": "2",
+               "stars.version": "sync.server.Clank42"
+            },
+            "name": "9GAG",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://m.9gag.com/"
+         }, {
+            "date_added": "13039825408965657",
+            "id": "24",
+            "name": "Trust Me, I'm An Engineer | Teespring",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://teespring.com/trustanengineer1"
+         }, {
+            "date_added": "13040491334461291",
+            "id": "25",
+            "name": "The 26 Most Brilliant April Fool’s Pranks Ever. Some Are Just Evil! - 9GAG",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://9gag.com/gag/aeNWQ2m"
+         }, {
+            "date_added": "13040950561998464",
+            "id": "26",
+            "name": "Was für ein Plan ist für einen Anfänger geeignet? : Musterpläne",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.team-andro.com/phpBB3/was-fuer-ein-plan-ist-fuer-einen-anfaenger-geeignet-t144370.html"
+         }, {
+            "date_added": "13041093469549251",
+            "id": "27",
+            "name": "DZA's Trainingsplan Guide : Trainingspläne & Trainingssysteme",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.team-andro.com/phpBB3/dza-s-trainingsplan-guide-t274520.html#p5743476"
+         }, {
+            "date_added": "13041170082624358",
+            "id": "28",
+            "name": "Henochische Sprache – Wikipedia",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://de.wikipedia.org/wiki/Henochische_Sprache"
+         }, {
+            "date_added": "13041365083714899",
+            "id": "29",
+            "name": "Arduino verstehen und anwenden Teil 1: Einstieg in die Hardware: Arduino und AVR-Mikrocontroller | ELVjournal",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.elv.de/Arduino-verstehen-und-anwenden-Teil-1-Einstieg-in-die-Hardware-Arduino-und-AVR-Mikrocontroller/x.aspx/cid_726/detail_44820"
+         }, {
+            "date_added": "13041989505501802",
+            "id": "30",
+            "name": "SG CLUB TIME",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://professionnels.secure.societegenerale.fr/Pgn/NavigationServlet?MenuID=SBORELCPT&PageID=Compte&Classeur=1&NumeroPage=1&Origine=Menu"
+         }, {
+            "date_added": "13042143046463901",
+            "id": "31",
+            "name": "Collège des Ingénieurs: Voll finanziertes MBA-Programm | e-fellows.net",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.e-fellows.net/STUDIUM/MBA/MBA-Profile/College-des-Ingenieurs?utm_content=Member&utm_campaign=nlma1614&utm_medium=em&utm_source=nl"
+         }, {
+            "date_added": "13045163841832771",
+            "id": "32",
+            "name": "Karriere: Die Männer sind nicht schuld - Menschen & Wirtschaft - FAZ",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.faz.net/aktuell/wirtschaft/menschen-wirtschaft/karriere-die-maenner-sind-nicht-schuld-12944748.html"
+         }, {
+            "date_added": "13046369119515049",
+            "id": "33",
+            "name": "How Does A Car Work?",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.howdoesacarwork.com/"
+         }, {
+            "date_added": "13046950016184171",
+            "id": "34",
+            "name": "Hot: 10 Gifs d'Emma Watson qui vont vous faire salivé !",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://buzzfil.com/article/932/non-classe/hot-10-gifs-d-emma-watson-qui-vont-vous-faire-salive-1.html"
+         }, {
+            "date_added": "13047050450843508",
+            "id": "35",
+            "name": "Varying the pwm frequency for timer 0 or timer 2? - Arduino Forum",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://forum.arduino.cc/index.php/topic,16612.0.html"
+         }, {
+            "date_added": "13047241494873186",
+            "id": "36",
+            "name": "[ Bass Patches - Pod Hd Series ] - POD HD - Line 6 Community",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://line6.com/support/topic/263-bass-patches-pod-hd-series/"
+         }, {
+            "date_added": "13050110341058459",
+            "id": "37",
+            "name": "Calculus One | Coursera",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.coursera.org/learn/calculus1/outline"
+         }, {
+            "date_added": "13050969498545821",
+            "id": "38",
+            "name": "Ebookspender Forum",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.ebookspender.me/"
+         }, {
+            "date_added": "13054772154270369",
+            "id": "39",
+            "name": "Praktikumsbörsen weltweit - DAAD - Deutscher Akademischer Austausch Dienst",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.daad.de/ausland/praktikum/vermittlung/de/262-praktikumsboersen-weltweit/"
+         }, {
+            "date_added": "13055294577733986",
+            "id": "40",
+            "meta_info": {
+               "stars.id": "ssc_eea1b1a6c80197f5",
+               "stars.pageData": "Ig5OSHlWWlhHQzB0MENSTQ==",
+               "stars.type": "2",
+               "stars.version": "sync.server.Chrome39"
+            },
+            "name": "LyX wiki | LyX / LyXMathebefehle",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://wiki.lyx.org/LyX/LyXMathebefehle"
+         }, {
+            "date_added": "13055295495831508",
+            "id": "41",
+            "meta_info": {
+               "stars.flags": "5",
+               "stars.id": "ssc_83f92e9248ac9e6e",
+               "stars.type": "2"
+            },
+            "name": "LyX’s detailed Math manual",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://elyxer.nongnu.org/lyx/Math.html#toc-Subsection--3"
+         }, {
+            "date_added": "13057193768042564",
+            "id": "42",
+            "meta_info": {
+               "stars.id": "ssc_27b3d6d731cf6aa6",
+               "stars.imageData": "Cg5xVEJ0RlRlNmNkV0NTTRJ+CnZodHRwOi8vcG9scGl4LnN1ZWRkZXV0c2NoZS5jb20vcG9sb3BvbHlfZnMvMS4yMTU1NTYwLjE0MTIxNjU4NjUhL2h0dHBJbWFnZS9pbWFnZS5qcGdfZ2VuL2Rlcml2YXRpdmVzLzU2MHgzMTUvaW1hZ2UuanBnELAEGLsCGmMKW2h0dHA6Ly90MS5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUUMwaXREa0dPclI5YWdGeGc1MFVvSF9sZWw1a1FoRk9Wejc2enVpTFctSEh4MjBPUWsQrAIYqAEiHwgBEKwCGKgBIItGQgYSBLthmrZKCmltYWdlL2pwZWc=",
+               "stars.pageData": "Ig5lMEJEQnNXYW5PaGhOTQ==",
+               "stars.type": "2",
+               "stars.version": "sync.server.Chrome39"
+            },
+            "name": "\"Ich vermiete auch an Jurastudenten\" - Job - jetzt.de",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://jetzt.sueddeutsche.de/texte/anzeigen/589111/Ich-vermiete-auch-an-Jurastudenten"
+         }, {
+            "date_added": "13057246086247251",
+            "id": "43",
+            "meta_info": {
+               "stars.id": "ssc_d154d46ba7250f11",
+               "stars.version": "sync.server.Chrome37"
+            },
+            "name": "LeakForums",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://leakforums.org/"
+         }, {
+            "date_added": "13068038745131491",
+            "id": "44",
+            "meta_info": {
+               "last_visited": "13131117684730527",
+               "stars.flags": "5",
+               "stars.id": "ssc_5a8cf4c6c63b5a4a",
+               "stars.version": "sync.server.Chrome40"
+            },
+            "name": "iAgora - Globalise your CV - Work, Studies, Languages",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.iagora.com/index.html"
+         }, {
+            "date_added": "13068746755176000",
+            "id": "45",
+            "meta_info": {
+               "stars.id": "ssc_06ecfeeef103a148",
+               "stars.imageData": "Cg5GaXBXcV8xcGF2VFhITRJHCj9odHRwczovL3d3dy5xdWlya3kuY29tL2ltYWdlcy9zaXRlL3F1aXJreS1zcXVhcmUucG5nPzE0MjMwODQ1MDkQ4QEY4QEaYwpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUVjZBc3Z5ZHh6dk83dDk4cmlJa0docmR1QlhEdTJsRERjM0hTR21nTDdMSFRxMnE5ORDhARjhASIQCAEQ4QEY4QFCBhIEgAIA/yjV9Iml9ePMAg==",
+               "stars.pageData": "Ig5sZGpBaU9qWEdmbWtmTQ==",
+               "stars.type": "2",
+               "stars.version": "sync.server.Clank40"
+            },
+            "name": "Connected objects/business ideas",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.quirky.com/shop"
+         }, {
+            "date_added": "13069702281514618",
+            "id": "46",
+            "meta_info": {
+               "stars.id": "ssc_93f58f16a72f8130",
+               "stars.version": "sync.server.Chrome40"
+            },
+            "name": "American Horror Story - Die Dunkle Seite In Dir online anschauen und downloaden - Kinofilm, Film Stream angucken Movie2k.to Movie4k.to",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.movie4k.to/American-Horror-Story-Die-dunkle-Seite-in-dir-online-serie-1862694.html"
+         }, {
+            "date_added": "13129078802431678",
+            "id": "47",
+            "name": "Munich Tech Map",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://blog.honeypot.io/munich-tech-map/"
+         }, {
+            "date_added": "13129578962523378",
+            "id": "48",
+            "meta_info": {
+               "last_visited": "13131706121305626",
+               "last_visited_desktop": "13140218290834955"
+            },
+            "name": "Meine Startseite",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.moodle.tum.de/my/"
+         }, {
+            "date_added": "13136889478908252",
+            "id": "49",
+            "name": "Nutzungshinweise - Impressum - Handelsblatt Online",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.handelsblatt.com/impressum/nutzungshinweise/blocker/?callback=%2Funternehmen%2Findustrie%2Fentwicklungszentrum-digital-lab-silicon-volkswagen-in-berlin%2F14740060.html"
+         }, {
+            "date_added": "13137774738043590",
+            "id": "50",
+            "name": "pacman - ArchWiki",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/index.php/Pacman#pacman_crashes_during_an_upgrade"
+         }, {
+            "date_added": "13138467914790585",
+            "id": "51",
+            "meta_info": {
+               "last_visited_desktop": "13140710187620146"
+            },
+            "name": "i3: i3 User’s Guide",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://i3wm.org/docs/userguide.html"
+         } ],
+         "date_added": "13140706571403153",
+         "date_modified": "13140716075421075",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
